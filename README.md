@@ -178,7 +178,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 - **Images**: Special thanks to Unsplash and the talented photographers who have made their beautiful Paris photography available
 - **Icons**: Material Symbols by Google
-- **Inspiration**: The timeless beauty and elegance of Paris, France
+- **Inspiration**: The timeless beauty and elegance of Paris, France.
 
 ## 📞 Contact
 
