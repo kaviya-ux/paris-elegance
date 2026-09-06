@@ -196,7 +196,6 @@ For questions, suggestions, or feedback, please reach out:
 - [ ] User reviews and ratings
 - [ ] Offline mode for travel planning
 - [ ] Mobile app version
-- [ ] Augmented reality city guide
 
 ---
 
