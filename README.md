@@ -1,6 +1,4 @@
-
 # Paris Elegance 🗼
-
 A sophisticated travel experience platform designed specifically for Indian travelers exploring Paris. This application combines curated experiences, practical travel information, and seamless booking functionality to help visitors discover the City of Light with confidence and ease.
 
 ![Paris Elegance](https://images.unsplash.com/photo-1769374343053-9a7a3a6d0c6c?w=1200&auto=format&fit=crop)
@@ -81,10 +79,10 @@ The built files will be in the `build` directory.
 
 ## 🛠️ Technology Stack
 
-- **Frontend Framework**: React 19.2.8
+- **Frontend Framework**: React
 - **Build Tool**: Create React App (react-scripts)
-- **Routing**: React Router DOM 7.18.2
-- **Styling**: Tailwind CSS 3.4.19
+- **Routing**: React Router DOM 
+- **Styling**: Tailwind CSS 
 - **State Management**: React Context API
 - **Language**: JavaScript
 
@@ -188,17 +186,6 @@ For questions, suggestions, or feedback, please reach out:
 - **Email**: contact@pariselegance.com
 - **GitHub Issues**: [Open an issue](https://github.com/kaviya-ux/paris-elegance/issues)
 
-## 🗺️ Roadmap
-
-### Upcoming Features
-- [ ] Multi-language support (Hindi, French, English)
-- [ ] Real-time availability checking
-- [ ] Integration with booking APIs
-- [ ] User reviews and ratings
-- [ ] Offline mode for travel planning
-- [ ] Mobile app version
-
----
 
 **Made with ❤️ for travelers who dream of Paris**
 
