@@ -1,7 +1,7 @@
 # Paris Elegance 🗼
 A sophisticated travel experience platform designed specifically for Indian travelers exploring Paris. This application combines curated experiences, practical travel information, and seamless booking functionality to help visitors discover the City of Light with confidence and ease.
 
-![Paris Elegance](https://images.unsplash.com/photo-1769374343053-9a7a3a6d0c6c?w=1200&auto=format&fit=crop)
+
 
 ## ✨ Features
 
