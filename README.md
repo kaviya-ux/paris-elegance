@@ -118,7 +118,7 @@ paris-elegance/
 │   ├── assets/             # Static assets
 │   ├── App.js              # Main app component
 │   └── index.js            # Application entry point
-├── public/                 # Public assets (index.html, favicon.svg, icons.svg)
+├── public/                 # Public assets (index.html, favicon.svg, icons)
 ├── package.json
 ├── tailwind.config.js
 └── postcss.config.js
